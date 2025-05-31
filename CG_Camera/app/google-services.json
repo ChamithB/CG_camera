@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "587672821634",
+    "project_id": "cg-camera-chamith",
+    "storage_bucket": "cg-camera-chamith.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587672821634:android:77004324e66c482b36f99b",
+        "android_client_info": {
+          "package_name": "com.example.cg_camera"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ1dwf0hWKKlmSOIG3pL8EGm1R9w1QuLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

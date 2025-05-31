@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">587672821634</string>
+    <string name="google_api_key" translatable="false">AIzaSyDZ1dwf0hWKKlmSOIG3pL8EGm1R9w1QuLg</string>
+    <string name="google_app_id" translatable="false">1:587672821634:android:77004324e66c482b36f99b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDZ1dwf0hWKKlmSOIG3pL8EGm1R9w1QuLg</string>
+    <string name="google_storage_bucket" translatable="false">cg-camera-chamith.firebasestorage.app</string>
+    <string name="project_id" translatable="false">cg-camera-chamith</string>
+</resources>
